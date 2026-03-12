@@ -26,3 +26,7 @@ dsl_input = "[ user 101 [ role admin #internal_comment ] ]"
 ast = parse_dsl(dsl_input)
 print(ast)
 # Output: ('user', 101, ('role', 'admin'))
+
+
+<img width="2920" height="343" alt="image" src="https://github.com/user-attachments/assets/7a7e9a8a-53de-4091-ba7e-cbfa8cc0708d" />
+
